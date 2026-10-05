@@ -1,0 +1,6 @@
+{
+  "name": "AIDEX 0.7 - Inducción Ejecutivo Comercial",
+  "description": "Plataforma inteligente de onboarding, capacitación, gestión del conocimiento, acompañamiento en campo y productividad para Ejecutivos Comerciales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
